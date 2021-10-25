@@ -1,4 +1,4 @@
-// MOLECULAR Dynamics simulation code for LJ particles
+// MOLECULAR Dynamics simulation code for Lennard-Jones potential (LJ) particles
 // 1) Set the initial parameteres
 //
 #include<stdio.h>
